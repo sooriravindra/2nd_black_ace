@@ -1,0 +1,24 @@
+
+
+========================================================================================================
+	AIM: To solve the question below
+
+=======================================================================================================
+Someone hands you a deck of cards which you thoroughly shuffle. 
+Next, you start to deal them, face-up, counting the cards as you go. 'One, Two, Three …'
+The aim is to predict what the count will be when you encounter the second black Ace in the deck.
+
+If you had to select one position before you started to deal, what number would you select that maximizes 
+your chance of guessing the location of the second black Ace?
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Simulate the situation: Done in simulate.py
+
+Use theoretic calculation: Done in theoretic.py
+
+----------------------------------------------------------------------------------------------------------
+Conclusion:
+
+The theoretic and simulated cases agree with one other
