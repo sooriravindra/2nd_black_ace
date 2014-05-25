@@ -14,10 +14,12 @@ your chance of guessing the location of the second black Ace?
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Simulate the situation: Done in simulate.py
 
-Use theoretic calculation: Done in theoretic.py
+Simulate the situation: Done in simulate.py << Might contain hard coded parts-- Ignore>>
 
+Use theoretic calculation: Done in theoretic.py << Ignore>>
+
+Final comparison: compare.py <<---FINAL PROGRAM--->>
 ----------------------------------------------------------------------------------------------------------
 Conclusion:
 
